@@ -86,9 +86,11 @@ python your_script_name.py
 ```
 /project-folder
 │
+├──haarcascade_frontalface_default.xml
 ├── Emotion_Detection.h5
 ├── sample.mp4
-├── your_script_name.py
+├── test.py
+├── train.py
 ├── requirements.txt
 └── README.md
 ```
