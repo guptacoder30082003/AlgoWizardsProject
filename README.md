@@ -30,10 +30,10 @@ pip install -r requirements.txt
 The `requirements.txt` contains:
 
 ```
-opencv-python
-numpy
-keras
-tensorflow
+opencv-python==4.8.0.76
+numpy==1.23.5
+keras==2.10.0
+tensorflow==2.10.0
 ```
 
 ---
